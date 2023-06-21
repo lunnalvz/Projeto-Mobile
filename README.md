@@ -6,10 +6,16 @@ Os usuários podem criar uma lista detalhada de todas as tarefas que precisam se
 
 ## Autores
 
-- [@lunnalvz](https://www.github.com/octokatherine)
+Amanda Alves - [@lunnalvz](https://www.github.com/octokatherine)
 
-Amanda Alves
 ## Funcionalidades
 
 - Adicionar item à lista
 - Excluir item da lista
+  
+## Tecnologias usadas
+
+- Componentização
+- Propriedades
+- Navegação por telas (Tab Navigator)
+- Implementação das funções Create e Delete.
